@@ -1,0 +1,11 @@
+../Core/Src/main.c:90:9:Constrain_Speed	3
+../Core/Src/main.c:97:6:Set_Motor_A	3
+../Core/Src/main.c:117:6:Set_Motor_B	3
+../Core/Src/main.c:137:6:Balance_Control	1
+../Core/Src/main.c:172:5:main	3
+../Core/Src/main.c:266:6:SystemClock_Config	4
+../Core/Src/main.c:309:13:MX_I2C1_Init	4
+../Core/Src/main.c:357:13:MX_TIM3_Init	7
+../Core/Src/main.c:418:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:453:13:MX_GPIO_Init	1
+../Core/Src/main.c:477:6:Error_Handler	1
