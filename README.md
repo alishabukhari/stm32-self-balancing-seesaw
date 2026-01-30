@@ -69,9 +69,11 @@ self-balancing-seesaw/
 ---
 
 ## 🎥 Demo Video
-A working demo of the self-balancing seesaw is included in the repository:
 
-📁 `hardware/demo-video.mp4`
+Click the image below to download and watch the demo:
+
+[![Self-Balancing Seesaw Demo](hardware/seesaw.jpeg)](hardware/demo-video.mp4)
+
 
 ---
 
